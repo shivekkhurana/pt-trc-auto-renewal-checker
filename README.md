@@ -2,6 +2,11 @@
 
 This script automates the process of checking TRC auto-renewal availability on the SEF portal using Playwright.
 
+## Demo
+
+https://raw.githubusercontent.com/shivekkhurana/pt-trc-auto-renewal-checker/refs/heads/master/demo.mp4
+
+
 ## Setup
 
 1. Install UV (if not already installed):
