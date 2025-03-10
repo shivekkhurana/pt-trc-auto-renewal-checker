@@ -4,7 +4,7 @@ This script automates the process of checking TRC auto-renewal availability on t
 
 ## Demo
 
-https://raw.githubusercontent.com/shivekkhurana/pt-trc-auto-renewal-checker/refs/heads/master/demo.mp4
+https://github.com/user-attachments/assets/deb27e36-ef7a-4812-ade4-f45747f7a858
 
 
 ## Setup
